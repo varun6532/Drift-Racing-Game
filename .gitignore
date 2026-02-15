@@ -1,0 +1,60 @@
+# Unreal Engine
+
+
+
+# Marketplace / Heavy Assets
+AutomotiveMaterials/
+Construction_VOL2/
+Megascans/
+Fab/
+SnowTrack/
+Assets/
+AutomotiveMaterials/
+Car_Dealer/
+Characters/
+Fab/
+FirstPerson/
+HQUI_ProgressBars
+Maps/
+Megascans/
+SnowTrack/
+Warehouse/
+WesternDesertTown/
+PN_interactiveSpruceForest/
+PN_interactiveSpruceForest/
+
+
+
+# Binary folders
+Binaries/
+Plugins/**/Binaries/
+
+# Intermediate build files
+Intermediate/
+Plugins/**/Intermediate/
+
+# Saved editor data
+Saved/
+
+# Derived data cache
+DerivedDataCache/
+
+# Build outputs
+Build/
+
+# Visual Studio
+.vs/
+*.sln
+*.suo
+*.opensdf
+*.sdf
+*.VC.db
+*.VC.opendb
+.vsconfig
+
+# Logs
+*.log
+
+# OS generated files
+Thumbs.db
+.DS_Store
