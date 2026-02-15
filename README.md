@@ -19,10 +19,10 @@ A single-player Blueprint-based drift racing game built in Unreal Engine 5.6.
 Actively in development.
 
 ## Future Plans
-- Multiplayer support
-- Steam integration
-- Leaderboards
 - Performance optimization
+- Loading Screen
+- Few more tbh
 
-## Gameplay Preview
-(You will add a YouTube or GIF link here)
+## Gameplay Preview and Project dev logs 
+https://www.youtube.com/@varun9733
+
