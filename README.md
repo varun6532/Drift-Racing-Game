@@ -20,8 +20,9 @@ Actively in development.
 
 ## Future Plans
 - Performance optimization
-- Loading Screen
+- Loading Screen (Done)
 - Few more tbh
+- Minimap(Working)
 
 ## Gameplay Preview and Project dev logs 
 https://www.youtube.com/@varun9733
