@@ -22,8 +22,14 @@ Warehouse/
 WesternDesertTown/
 PN_interactiveSpruceForest/
 PN_interactiveSpruceForest/
-
-
+Destroyed_City_Block/
+SettingControls/
+Spinner/
+RadioSelect/
+SettingControls/
+UltraDynamicSky/
+ButtonIcons/
+BSM_Minimalist/
 
 # Binary folders
 Binaries/
@@ -32,7 +38,8 @@ Plugins/**/Binaries/
 # Intermediate build files
 Intermediate/
 Plugins/**/Intermediate/
-
+Plugins/EasyMultiSave/
+Plugins/AutoSettingsCore/
 # Saved editor data
 Saved/
 
