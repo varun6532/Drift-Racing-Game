@@ -3,6 +3,7 @@
 
 
 # Marketplace / Heavy Assets
+Content/UltraDynamicSky/
 AutomotiveMaterials/
 Construction_VOL2/
 Megascans/
@@ -34,6 +35,7 @@ BSM_Minimalist/
 # Binary folders
 Binaries/
 Plugins/**/Binaries/
+
 
 # Intermediate build files
 Intermediate/
